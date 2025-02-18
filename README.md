@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently getting more into `server administration` and `programming`
+- 🔭 I’m working on improving my skills and knowledge about various tech-related topics.
+
 <!--
 **chris4859/chris4859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
